@@ -1,0 +1,20 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# пакеты
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE/редакторы
+.vscode/
+.idea/
+*.swp
